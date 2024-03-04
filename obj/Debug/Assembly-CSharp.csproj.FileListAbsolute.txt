@@ -1,0 +1,2 @@
+/Users/yasinerduran/Projects/Oyun Programlama Dersi/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/yasinerduran/Projects/Oyun Programlama Dersi/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
